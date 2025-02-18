@@ -7,7 +7,7 @@
     "@actions/core": "^1.5.0",
     "adventech-bible-tools": "https://github.com/Adventech/bible-tools/tarball/master",
     "axios": "^0.21.1",
-    "danger": "^10.6.0",
+    "danger": "^11.0.2",
     "ent": "^2.2.0",
     "fast-xml-parser": "^4.3.2",
     "firebase-admin": "^9.4.2",
